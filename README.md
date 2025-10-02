@@ -70,11 +70,14 @@
 
 ## 📈**My GitHub Stats:**
 
-<a align="left" href="https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph"/></a>
+| ![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph(Personal%20Account)) |
+| --- |
 
+| ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripaathi&&show_icons=true&hide_border=true&layout=compact&langs_count=10) |  ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekjingo&hide_border=true)  |
+| --- | --- | --- |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripaathi&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true)  |
-| --- | --- |
+| ![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=vivekjingo&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph(Jingo%20Account)) |
+| --- |
 
 <!-- 
 | ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivektripaathi&show_icons=true&hide_border=true) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true) |
